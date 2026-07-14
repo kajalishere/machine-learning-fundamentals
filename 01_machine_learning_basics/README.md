@@ -1,11 +1,22 @@
-# Machine Learning Basics
+# Machine Learning Fundamentals
 
-This section contains the fundamental concepts of Machine Learning that form the foundation for all subsequent topics.
+## Overview
 
-Topics include:
+This module introduces the fundamental concepts of Machine Learning, including its definition and major learning paradigms.
+
+## Topics Covered
 
 - What is Machine Learning?
-- Types of Machine Learning
-- Workflow of Machine Learning
-- Applications
-- Challenges
+- Supervised Learning
+- Unsupervised Learning
+
+## Learning Material
+
+- 📄 ML_Intro.pdf
+
+## Skills
+
+- Machine Learning Fundamentals
+- Artificial Intelligence
+- Supervised Learning
+- Unsupervised Learning
